@@ -1,3 +1,2 @@
-# Aws_test
-copy of fundoo notes
+Copy of fundoo notes
 update 3:19pm by Prathamesh
